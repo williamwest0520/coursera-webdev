@@ -1,5 +1,7 @@
 section {
   float: left;
+  background-color: grey;
+  border: solid 1px black;
 }
 
 @media (min-width: 992px) {

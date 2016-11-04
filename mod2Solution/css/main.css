@@ -19,8 +19,8 @@ section > div {
 
 div > div {
   position: absolute;
-  top: 0px;
-  right: 0px;
+  top: -1px;
+  right: -1px;
   border: solid 1px black;
   padding : 5px;
   width: 100px;
@@ -32,7 +32,7 @@ div > div {
 }
 
 #beefHeader {
-  background-color: #e05033
+  background-color: #e05033;
   color: white;
 }
 
@@ -42,6 +42,7 @@ div > div {
 
 ul {
   margin: 40px 10px 10px 10px;
+  list-style-type: none;
 }
 
 @media (min-width: 992px) {

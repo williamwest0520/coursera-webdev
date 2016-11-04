@@ -18,7 +18,8 @@ div > div {
   right: 0px;
   border: solid 1px black;
   padding : 5px;
-  width: 75px;
+  width: 100px;
+  text-align: center;
 }
 
 p {

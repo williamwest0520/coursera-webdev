@@ -44,6 +44,8 @@ div > div {
 }
 
 ul {
+  position: relative;
+  left: -20px;
   margin: 40px 10px 10px 10px;
   list-style-type: none;
 }

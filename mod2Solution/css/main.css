@@ -6,6 +6,7 @@ section {
   float: left;
   background-color: grey;
   border: solid 1px black;
+  margin: 10px;
 }
 
 @media (min-width: 992px) {

@@ -27,6 +27,7 @@ div > div {
   padding : 5px;
   width: 100px;
   text-align: center;
+  font-weight: bold;
 }
 
 #chickenHeader {

@@ -14,6 +14,7 @@ section > div {
   border: solid 1px black;
   margin: 10px;
   position: relative;
+  background-color: #cccccc;
 }
 
 div > div {
@@ -26,7 +27,20 @@ div > div {
   text-align: center;
 }
 
-p {
+#chickenHeader {
+  background-color: #fff0ba;
+}
+
+#beefHeader {
+  background-color: #e05033
+  color: white;
+}
+
+#sushiHeader {
+  background-color: #bfe9ef;
+}
+
+ul {
   margin: 40px 10px 10px 10px;
 }
 

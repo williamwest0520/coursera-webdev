@@ -3,7 +3,7 @@
 }
 
 h1 {
-  /*text-align: center;*/
+  text-align: center;
 }
 
 section {
@@ -47,36 +47,36 @@ ul {
 
 @media (min-width: 992px) {
   #chicken {
-    width: 33.33%
+    width: 33.33%;
   }
   #beef {
-    width: 33.33%
+    width: 33.33%;
   }
   #sushi {
-    width: 33.33%
+    width: 33.33%;
   }
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
   #chicken {   
-    width: 50% 
+    width: 50%;
   }
   #beef {
-    width: 50%
+    width: 50%;
   }
   #sushi {
-    width: 100%
+    width: 100%;
   }
 }
 
 @media (max-width: 767px) {
   #chicken {
-    width: 100%
+    width: 100%;
   }
   #beef {
-    width: 100%
+    width: 100%;
   }
   #sushi {
-    width: 100%
+    width: 100%;
   }
 }

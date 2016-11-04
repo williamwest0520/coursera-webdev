@@ -8,7 +8,18 @@ section {
 
 section > div {
   border: solid 1px black;
-  margin: 10px
+  margin: 10px;
+  position: relative;
+}
+
+div > div {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+}
+
+p {
+  margin-top: 30px;
 }
 
 @media (min-width: 992px) {

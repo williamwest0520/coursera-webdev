@@ -8,6 +8,7 @@ h1 {
 
 section {
   float: left;
+  width: 100%;
 }
 
 section > div {

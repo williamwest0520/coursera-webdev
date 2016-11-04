@@ -3,7 +3,7 @@
 }
 
 h1 {
-  text-align: center;
+  /*text-align: center;*/
 }
 
 section {
@@ -58,7 +58,7 @@ ul {
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
-  #chicken {   
+  #chicken {
     width: 50%;
   }
   #beef {

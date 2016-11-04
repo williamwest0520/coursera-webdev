@@ -12,10 +12,11 @@ section > div {
   position: relative;
 }
 
-div > div {
+h2 {
   position: absolute;
   top: 0px;
   right: 0px;
+  border: solid 1px black;
 }
 
 p {

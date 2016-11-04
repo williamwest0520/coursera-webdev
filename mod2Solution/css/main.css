@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 section {
   float: left;
   background-color: grey;

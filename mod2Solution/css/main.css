@@ -1,3 +1,7 @@
+section {
+  float: left;
+}
+
 @media (min-width: 992px) {
   #chicken {
     width: 33.33%

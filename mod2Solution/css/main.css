@@ -12,7 +12,7 @@ section > div {
   position: relative;
 }
 
-header {
+div > div {
   position: absolute;
   top: 0px;
   right: 0px;

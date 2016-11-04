@@ -1,8 +1,35 @@
 @media (min-width: 992px) {
+  #chicken {
+    width: 33.33%
+  }
+  #beef {
+    width: 33.33%
+  }
+  #sushi {
+    width: 33.33%
+  }
 }
 
 @media (max-width: 991px) and (min-width: 768px) {
+  #chicken {   
+    width: 50% 
+  }
+  #beef {
+    width: 50%
+  }
+  #sushi {
+    width: 100%
+  }
 }
 
 @media (max-width: 767px) {
+  #chicken {
+    width: 100%
+  }
+  #beef {
+    width: 100%
+  }
+  #sushi {
+    width: 100%
+  }
 }
